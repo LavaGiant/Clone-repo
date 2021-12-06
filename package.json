@@ -1,0 +1,27 @@
+{
+  "name": "clone-repo",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "download",
+    "repo",
+    "clone",
+    "git-clone"
+  ],
+  "author": "malphite",
+  "license": "MIT",
+  "homepage": "https://github.com/Malphite1999/Clone-repo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Malphite1999/Clone-rep"
+  },
+  "dependencies": {
+    "download": "^8.0.0",
+    "git-clone": "^0.2.0",
+    "rimraf": "^3.0.2"
+  }
+}
